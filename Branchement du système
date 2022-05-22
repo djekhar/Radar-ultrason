@@ -1,0 +1,21 @@
+Composants nécessaires 
+
+Carte Arduino UCA 
+Capteur HC-SR04 
+Servo moteur 
+Des Fils électriques
+
+Montage: 
+
+Pour faire le montage, on a connecté: 
+
+Pour le capteur sonore HC-SR04 : 
+la broche VCC  à la broche V-BUS de l’Arduino 
+la broche Trig  à la broche N°6 de l’Arduino 
+la broche ECHO à la broche N°5 de l’Arduino 
+la broche GND à la broche GND de l’Arduino 
+
+ Pour le servomoteur: 
+fil rouge : fil de l’alimentation à relier à la borne V-IN de l’Arduino 
+fil marron : fil à relier à la broche GND de l’Arduino 
+Jaune : fil de signal de positionnement branché à la broche N°7 de l’Arduino 
